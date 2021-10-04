@@ -4,7 +4,7 @@ PyTorch implementations of Generative Adversarial Networks (GAN) variants
  1. Vanilla GAN: [Least Squares Generative Adversarial Networks (LSGAN)](https://arxiv.org/abs/1611.04076)
 
 
-[Vanilla-GAN] (https://github.com/sachin-chhabra/Pytorch-Vanilla-GAN)
+[Vanilla-GAN](https://github.com/sachin-chhabra/Pytorch-Vanilla-GAN)
 (https://github.com/sachin-chhabra/Pytorch-DCGAN)[Deep Convolution GAN (DCGAN)] 
 (https://github.com/sachin-chhabra/Pytorch-LSGAN)[Least Squared GAN (LSGAN)] 
 (https://github.com/sachin-chhabra/Pytorch-cGAN)[Conditional GAN (cGAN)] 
