@@ -1,5 +1,5 @@
 # PyTorch-GAN-Variants
-PyTorch implementations of Generative Adversarial Networks (GAN) variants:
+PyTorch implementations of various Generative Adversarial Networks (GAN) variants:
 
  1. [Vanilla-GAN](https://github.com/sachin-chhabra/Pytorch-Vanilla-GAN)
  2. [Deep Convolution GAN (DCGAN)](https://github.com/sachin-chhabra/Pytorch-DCGAN)
